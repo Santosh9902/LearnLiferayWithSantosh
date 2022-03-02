@@ -1,2 +1,1 @@
-# learnliferaytech
-# life-liferay
+# LearnLiferay
