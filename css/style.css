@@ -9,7 +9,7 @@ body{
 .header{
     height: 90vh;
     width: 100%;
-    background: linear-gradient(to right, rgba(0,0,0,5), rgba(0,0,0,.2)) , url(https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background: linear-gradient(to right, rgba(0,0,0,5), rgba(0,0,0,.2)) , url(https://scontent.fblr1-5.fna.fbcdn.net/v/t1.6435-9/49249074_1398386126965061_6755212601388433408_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_ohc=5roN89ZpMf8AX9K8ZJD&_nc_ht=scontent.fblr1-5.fna&oh=00_AT908p2jYrZEYVl6pf7s35FHiQuyCl3bueiPbeJTy6vGBw&oe=6244B91E);
     color: white;
     background-size: cover;
     
